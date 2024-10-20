@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Paper | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/publication_types/working-paper/</link>
+      <atom:link href="http://localhost:4321/publication_types/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Paper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Working Paper</title>
+      <link>http://localhost:4321/publication_types/working-paper/</link>
+    </image>
+    
+    <item>
+      <title>Leaders and Laggards: Examining R&amp;D Productivity Gaps and the Demand for Technology</title>
+      <link>http://localhost:4321/publication/journal-article/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark side of Managerial Efficiency: Impact on Firm Environmental Violations</title>
+      <link>http://localhost:4321/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

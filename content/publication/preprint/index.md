@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "Risk-Taking Incentive in CEO Compensation and Technology Commercialization" 
+authors: 
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

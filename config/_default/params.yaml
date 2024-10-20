@@ -5,9 +5,12 @@
 
 # Appearance
 appearance:
+  theme: minimal
   mode: system
-  color: emerald
+  color: blue
+  font: "Helvetica"
 
+  
 # SEO
 marketing:
   seo:
@@ -35,12 +38,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Clinton Chinemelum Ofoedu"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Clinton Chinemelum Ofoedu'
     license:
       enable: true
       allow_derivatives: false
